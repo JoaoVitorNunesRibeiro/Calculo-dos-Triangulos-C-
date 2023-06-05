@@ -12,8 +12,8 @@
 ...
 
 ## Descrição do projeto
-Exercício de criação de programa dividido em duas etapas, ou seja, dois códigos.
-O código 1 consiste em um algoritimo que calcula a média e apresenta as salas com uma qauntidade de pessoas acima da média, já o código 2 foi pedido um programa que recebe a entrada de uma quantidade de alunos para cada uma das seis salas, manipulada por um usuário e calcule a média e apresente para o mesmo usuário as salas com maior e menor número de alunos.
+Exercício de criação de programa dividido em duas etapas, ou seja, dois códigos, ambos em linguagem C#.
+O código 1 consiste em criar um programa para ler as medidas dos lados de dois triângulos X e Y, utilizando função, que mostre o valor para seu usário e também o que possui maior área, o código é a mesma coisa, porém, ao invés de utilizar função, usar classe.
 
 ## Como rodar a aplicação 
 Rode os programas no "Visual Studio" que lê linguagem C# e em seguida de as informações que o programa pede.
