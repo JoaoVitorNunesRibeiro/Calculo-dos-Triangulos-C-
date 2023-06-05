@@ -2,7 +2,7 @@ using System;
 using System.Globalization;
 
 namespace Course
-{   //quando criamos a classe de alguma coisa, inserimos os elementos/variaveis e como irá funcionar
+{   //quando criamos a classe de alguma coisa, inserimos os elementos/variaveis e como irá funcionara, ou seja, o método.
     public class Program
     {   //criando as variaveis 
         public static void Main(string[] args)
