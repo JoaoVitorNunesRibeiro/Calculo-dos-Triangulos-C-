@@ -41,7 +41,7 @@ namespace Course
             }
         }
         public static Triangulo LerTriangulo(string nomeTriangulo)
-        {   interface pro usuario colocar as medidas de cada triangulo
+        {   //interface pro usuario colocar as medidas de cada triangulo
             Triangulo triangulo = new Triangulo();
             Console.WriteLine("Entre com as medidas do triângulo " + nomeTriangulo + ":");
             triangulo.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
